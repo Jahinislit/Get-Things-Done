@@ -94,7 +94,7 @@ A simple **Getting Things Done (GTD)**-based personal productivity app built usi
 
 ## 🙌 Credits
 
-Built with ❤️ by [Your Name] as a learning project on productivity and React Native development.
+Built with ❤️ by Jahin Halder as a learning project on productivity and React Native development.
 
 ---
 
